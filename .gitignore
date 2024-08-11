@@ -1,0 +1,83 @@
+# React Native
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Expo
+.expo/
+.expo-shared/
+
+# Build output
+android/build/
+android/app/build/
+ios/build/
+ios/Pods/
+ios/Podfile.lock
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/Flutter/Flutter.podspec.json
+
+# macOS
+*.DS_Store
+
+# Android Studio
+*.iml
+.idea/
+*.gradle/
+.gradle/
+local.properties
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Environment files
+.env
+
+# Coverage
+coverage/
+
+# IDE-specific
+*.sublime-workspace
+*.sublime-project
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Misc
+*.lock
+*.pid
+*.seed
+*.gz
+*.tar
+
+# Webpack
+webpack-stats.json
+
+# macOS Finder
+*.DS_Store
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# React Native specific
+*.lock
+react-native.config.js
+
+# Other
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
